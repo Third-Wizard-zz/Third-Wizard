@@ -1,5 +1,6 @@
 - 🎏 Greetings! I’m @Third-Wizard
 - 🏛 Student at the University of Melbourne studying a Bachelor of Science (Stochastic Processes and Statistics)
+- ⌨️ Personal projects and learning Python
 
 <!---
 Third-Wizard/Third-Wizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
